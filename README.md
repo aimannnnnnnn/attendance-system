@@ -33,3 +33,10 @@ It captures faces through your webcam, recognizes them, and records attendance i
 1. Clone this repository:
    ```bash
    git clone https://github.com/aimannnnnnnn/attendance-system.git
+---
+### Team Members:
+
+1.Kaneez Zehra
+2.Nida Khan
+3.Falak Naaz
+4.Aiman Fatima
